@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "AdNetwork": "admob",
+    "AdNetwork": "applovin",
     "AdmobBanner": "ca-app-pub-2120403233975259/7345596806",
     "AdmobInterstitial": "ca-app-pub-2120403233975259/3023208413",
     "AdmobNative": "ca-app-pub-2120403233975259/8056043247",
